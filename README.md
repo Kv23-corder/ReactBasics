@@ -1,6 +1,3 @@
-Sure Kavindi 😊 Here is a simple professional `README.md` for your ongoing React practice projects:
-
-````markdown
 # React Projects 🚀
 
 This repository contains my ongoing React.js learning projects and practice applications.
@@ -90,5 +87,3 @@ GitHub:
 
 ```
 
-This will look good for a **junior/intern software engineer GitHub profile** because it shows continuous learning rather than just random code.
-```
